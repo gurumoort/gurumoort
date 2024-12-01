@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+S+Gurumoorthy )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Gurumoorthy )](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
 
@@ -54,10 +54,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Software Engineer at Microsoft
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
+- 🏢 I am Fresher
+- 🏫 2025 B.E. graduate Muthayammal Engineering College,Rasipuram
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
-- 📹 Subscribe on YouTube [Shumbul](http://yt.openinapp.co/shumbul)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
-- 👯 Pronouns: She/Her
+- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/gurumoorthy-s)
+- 👯 Pronouns: He/Him
