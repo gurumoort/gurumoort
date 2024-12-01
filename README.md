@@ -17,6 +17,5 @@
 
 - 🏢 I am Fresher
 - 🏫 2025 B.E. graduate Muthayammal Engineering College,Rasipuram
-- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/gurumoorthy-s)
 - 👯 Pronouns: He/Him
