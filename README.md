@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am Fresher
+- 🏢 I am a Fresher
 - 🏫 2025 B.E. graduate Muthayammal Engineering College,Rasipuram
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/gurumoorthy-s)
 - 👯 Pronouns: He/Him
