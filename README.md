@@ -15,7 +15,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Fresher
-- 🏫 2025 B.E. graduate Muthayammal Engineering College,Rasipuram
+- 🏢 I am a Fresher and I looking to collaborate on cloud Services.
+- 🌱 I’m currently learning Docker.
+- 🏫 2025 B.E. graduate Muthayammal Engineering College,Rasipuram.
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/gurumoorthy-s)
-- 👯 Pronouns: He/Him
+- 👯 Pronouns: He/Him.
+
+### Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50"  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/?size=96&id=3sGOUDo9nJ4k&format=png"/>
